@@ -12,3 +12,4 @@ In order to use our models, you'll need to donwload the data first from those li
 3. (https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces?select=real_vs_fake)[https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces?select=real_vs_fake]
 
 
+4. (https://github.com/awsaf49/artifact/)[https://github.com/awsaf49/artifact/]
