@@ -10,5 +10,3 @@ In order to use our models, you'll need to donwload the data first from those li
 2. (AI Faces)[https://www.kaggle.com/datasets/philosopher0808/real-vs-ai-generated-faces-dataset]
 
 3. (https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces?select=real_vs_fake)[https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces?select=real_vs_fake]
-
-
