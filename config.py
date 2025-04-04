@@ -1,6 +1,6 @@
 import os
 # Global configuration parameters
-IMG_SIZE = (250, 250)
+IMG_SIZE = (200, 200)
 DATA_DIR = "../data/art"
 # TFRECORDS_FILE = "dataset.tfrecords"
 OUTPUT_DIR = "../data_resized/art"
