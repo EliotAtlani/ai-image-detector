@@ -8,3 +8,6 @@ __pycache__
 
 dataset_test
 dataset_train
+
+# weights
+weights
