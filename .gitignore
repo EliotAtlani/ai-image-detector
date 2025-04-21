@@ -1,13 +1,15 @@
-data
-data_resized
-data_subset
-data_processed
 __pycache__
 .vscode
 .DS_Store
 
+# data
 dataset_test
 dataset_train
+data
+data_resized
+data_subset
+data_processed
+mathilde_data
 
 # weights
 weights
