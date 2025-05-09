@@ -6,7 +6,7 @@ import tensorflow as tf
 
 # path
 DECISION_MODEL_PATH = "../weights/decision_model.h5"
-ANIMAL_MODEL_PATH = "../weights/animals_baseline_model.h5"
+ANIMAL_MODEL_PATH = "../weights/animals_model.h5"
 ART_MODEL_PATH = "../weights/art_model.h5"
 FACE_MODEL_PATH = "../weights/art_baseline_model.h5"
 BASELINE_MODEL_PATH = "../weights/baseline_model.h5"
